@@ -4,3 +4,6 @@ Build the next smart app with our image processing and machine vision APIs. From
 
 ## Purpose
 This repo serves as a public inteface to comment, suggest, or propose ideas to help the service improve in the right direction.
+
+## How to Propose
+In order to propose new APIs, just open an issue and vote on it! That's pretty simple and transparent. Issues with higher votes take higher priority for implementation.
